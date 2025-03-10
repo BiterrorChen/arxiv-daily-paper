@@ -93,6 +93,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
+    logging.info("{query}")
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
