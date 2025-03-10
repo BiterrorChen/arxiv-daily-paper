@@ -25,8 +25,8 @@ keywords:
     "Geo-distributed": 
         filters: ["abs:Geo-distributed" OR ti:Geo-distributed"]
     "Multi Cloud data management":
-        filters: ["abs:\"Multi Cloud\" AND abs:management AND abs:data",
-                  "ti:\"Multi Cloud\" AND ti:management",]
+        filters: ["abs:Multi Cloud AND abs:management AND abs:data",
+                  "ti:Multi Cloud AND ti:management",]
     "Geo-distributed Database": 
         filters: ["abs:Geo-distributed AND abs:database",
                       "ti:Geo-distributed AND ti:database"]
