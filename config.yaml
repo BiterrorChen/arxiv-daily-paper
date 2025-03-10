@@ -1,11 +1,11 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+user_name: "BiterrorChen"
+repo_name: "arxiv-daily-paper"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -22,18 +22,22 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Geo-distributed": 
+        filters: ["Geo-distributed", "database", "sharding"]
+    "Multi Cloud database":
+        filters: ["Multi Cloud", "database"]
+    "Multi Cloud management":
+        filters: ["Multi Cloud", "management"]
+    # "SFM":
+    #     filters: ["SFM", "Structure from Motion"]
+    # "Visual Localization":
+    #     filters: ["Visual Localization","Camera Localization",
+    #               "Camera Re-localisation","Loop Closure Detection",
+    #               "visual place recognition","image retrieval"]
+    # "Keypoint Detection":
+    #     filters: ["Keypoint Detection", "Feature Descriptor"]
+    # "Image Matching":
+    #     filters: ["Image Matching", "Keypoint Matching", 
+    #               "Line Segment Detection", "Local Feature Matching"]
+    # "NeRF":
+    #     filters: ["NeRF"]
