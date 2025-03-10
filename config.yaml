@@ -22,9 +22,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Multi Cloud data management":
-        filters: ["Multi Cloud data management"]
-    "Geo-distributed Database": 
-        filters: ["Geo Distributed database"]
-    "Geo-distributed Store": 
-        filters: ["Geo Distributed store"]
+    "Multi Cloud":
+        filters: ["(multi cloud) AND (cat:cs.DC OR cat:cs.DB)"]
+    "Geo-distributed": 
+        filters: ["(Geo Distributed) AND (cat:cs.DC OR cat:cs.DB)"]
+    "Multi Region":
+        filters: ["(multi region) AND (cat:cs.DC OR cat:cs.DB)"]
