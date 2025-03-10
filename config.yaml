@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Geo-distributed": 
-        filters: ["abs:Geo-distributed" OR ti:Geo-distributed"]
+        filters: ["abs:Geo-distributed OR ti:Geo-distributed"]
     "Multi Cloud data management":
         filters: ["abs:Multi Cloud AND abs:management AND abs:data",
                   "ti:Multi Cloud AND ti:management"]
