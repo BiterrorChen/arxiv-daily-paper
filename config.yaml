@@ -23,13 +23,16 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Geo-distributed": 
-        filters: ["Geo-distributed"]
-    "Multi Cloud management":
-        filters: ["Multi Cloud AND management"]
+        filters: ["abs:Geo-distributed" OR ti:Geo-distributed"]
+    "Multi Cloud data management":
+        filters: ["abs:\"Multi Cloud\" AND abs:management AND abs:data",
+                  "ti:\"Multi Cloud\" AND ti:management",]
     "Geo-distributed Database": 
-        filters: ["Geo-distributed and database"]
+        filters: ["abs:Geo-distributed AND abs:database",
+                      "ti:Geo-distributed AND ti:database"]
     "Geo-distributed Store": 
-        filters: ["Geo-distributed and store"]
+        filters: ["abs:Geo-distributed AND abs:store",
+                      "ti:Geo-distributed AND ti:store"]
     # "SFM":
     #     filters: ["SFM", "Structure from Motion"]
     # "Visual Localization":
