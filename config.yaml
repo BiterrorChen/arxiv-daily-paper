@@ -23,8 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Multi Cloud":
-        filters: ["\"(abs:multi AND abs:cloud) AND (cat:cs.DC OR cat:cs.DB)\""]
+        filters: ["\"(abs:multi AND abs:cloud AND (database OR store)) AND (cat:cs.DC OR cat:cs.DB)\""]
     "Geo-distributed": 
-        filters: ["\"(abs:Geo AND abs:Distributed) AND (cat:cs.DC OR cat:cs.DB)\""]
+        filters: ["\"(abs:Geo AND abs:Distributed AND (database OR store)) AND (cat:cs.DC OR cat:cs.DB)\""]
     "Multi Region":
-        filters: ["\"(abs:multi AND abs:region) AND (cat:cs.DC OR cat:cs.DB)\""]
+        filters: ["\"(abs:multi AND abs:region AND (database OR store)) AND (cat:cs.DC OR cat:cs.DB)\""]
