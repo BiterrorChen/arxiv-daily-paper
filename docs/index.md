@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi Cloud
@@ -66,7 +66,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2002-08-07**|**TerraService.NET: An Introduction to Web Services**|Tom Barclay et.al.|[cs/0208010](http://arxiv.org/abs/cs/0208010)|null|
 |**2025-01-02**|**Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**|Shaokang Xie et.al.|[2501.01062](http://arxiv.org/abs/2501.01062)|null|
-|**2024-12-02**|**AVA: Fault-tolerant Reconfigurable Geo-Replication on Heterogeneous Clusters**|Tejas Mane et.al.|[2412.01999](http://arxiv.org/abs/2412.01999)|null|
+|**2025-03-16**|**AVA: Fault-tolerant Reconfigurable Geo-Replication on Heterogeneous Clusters**|Tejas Mane et.al.|[2412.01999](http://arxiv.org/abs/2412.01999)|null|
 |**2024-12-05**|**GeoTP: Latency-aware Geo-Distributed Transaction Processing in Database Middlewares (Extended Version)**|Qiyu Zhuang et.al.|[2412.01213](http://arxiv.org/abs/2412.01213)|null|
 |**2023-12-02**|**Fast Commitment for Geo-Distributed Transactions via Decentralized Co-coordinators**|Zihao Zhang et.al.|[2312.01229](http://arxiv.org/abs/2312.01229)|null|
 |**2023-08-05**|**FLight: A Lightweight Federated Learning Framework in Edge and Fog Computing**|Wuji Zhu et.al.|[2308.02834](http://arxiv.org/abs/2308.02834)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.03.16
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -65,7 +65,7 @@
 |**2018-08-25**|**Database-Agnostic Workload Management**|Shrainik Jain et.al.|[1808.08355](http://arxiv.org/abs/1808.08355)|null|
 |**2019-03-05**|**Decentralized Dictionary Learning Over Time-Varying Digraphs**|Amir Daneshmand et.al.|[1808.05933](http://arxiv.org/abs/1808.05933)|null|
 
-<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Geo-distributed
 
@@ -73,7 +73,7 @@
 |---|---|---|---|---|
 |**2002-08-07**|**TerraService.NET: An Introduction to Web Services**|Tom Barclay et.al.|[cs/0208010](http://arxiv.org/abs/cs/0208010)|null|
 |**2025-01-02**|**Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**|Shaokang Xie et.al.|[2501.01062](http://arxiv.org/abs/2501.01062)|null|
-|**2024-12-02**|**AVA: Fault-tolerant Reconfigurable Geo-Replication on Heterogeneous Clusters**|Tejas Mane et.al.|[2412.01999](http://arxiv.org/abs/2412.01999)|null|
+|**2025-03-16**|**AVA: Fault-tolerant Reconfigurable Geo-Replication on Heterogeneous Clusters**|Tejas Mane et.al.|[2412.01999](http://arxiv.org/abs/2412.01999)|null|
 |**2024-12-05**|**GeoTP: Latency-aware Geo-Distributed Transaction Processing in Database Middlewares (Extended Version)**|Qiyu Zhuang et.al.|[2412.01213](http://arxiv.org/abs/2412.01213)|null|
 |**2023-12-02**|**Fast Commitment for Geo-Distributed Transactions via Decentralized Co-coordinators**|Zihao Zhang et.al.|[2312.01229](http://arxiv.org/abs/2312.01229)|null|
 |**2023-08-05**|**FLight: A Lightweight Federated Learning Framework in Edge and Fog Computing**|Wuji Zhu et.al.|[2308.02834](http://arxiv.org/abs/2308.02834)|null|
@@ -112,7 +112,7 @@
 |**2016-11-19**|**OpenGeoBase: Information Centric Networking meets Spatial Database applications - Extended Version**|Andrea Detti et.al.|[1607.00771](http://arxiv.org/abs/1607.00771)|null|
 |**2016-01-23**|**Characterizing and Adapting the Consistency-Latency Tradeoff in Distributed Key-value Stores**|Muntasir Raihan Rahman et.al.|[1509.02464](http://arxiv.org/abs/1509.02464)|null|
 
-<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Multi Region
 
@@ -144,7 +144,7 @@
 |**2012-03-27**|**MDCC: Multi-Data Center Consistency**|Tim Kraska et.al.|[1203.6049](http://arxiv.org/abs/1203.6049)|null|
 |**2011-06-15**|**Distributed Transactions for Google App Engine: Optimistic Distributed Transactions built upon Local Multi-Version Concurrency Control**|Daniel Shawcross Wilkerson et.al.|[1106.3325](http://arxiv.org/abs/1106.3325)|null|
 
-<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
