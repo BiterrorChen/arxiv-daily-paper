@@ -1,4 +1,4 @@
-## Updated on 2025.04.21
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[2504.16397](http://arxiv.org/abs/2504.16397)|null|
 |**2025-04-16**|**Efficient Distributed Retrieval-Augmented Generation for Enhancing Language Model Performance**|Shangyu Liu et.al.|[2504.11197](http://arxiv.org/abs/2504.11197)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
@@ -67,7 +68,7 @@
 |**2018-08-25**|**Database-Agnostic Workload Management**|Shrainik Jain et.al.|[1808.08355](http://arxiv.org/abs/1808.08355)|null|
 |**2019-03-05**|**Decentralized Dictionary Learning Over Time-Varying Digraphs**|Amir Daneshmand et.al.|[1808.05933](http://arxiv.org/abs/1808.05933)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Geo-distributed
 
@@ -115,13 +116,14 @@
 |**2016-11-19**|**OpenGeoBase: Information Centric Networking meets Spatial Database applications - Extended Version**|Andrea Detti et.al.|[1607.00771](http://arxiv.org/abs/1607.00771)|null|
 |**2016-01-23**|**Characterizing and Adapting the Consistency-Latency Tradeoff in Distributed Key-value Stores**|Muntasir Raihan Rahman et.al.|[1509.02464](http://arxiv.org/abs/1509.02464)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Multi Region
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2004-08-14**|**There Goes the Neighborhood: Relational Algebra for Spatial Data Search**|Jim Gray et.al.|[cs/0408031](http://arxiv.org/abs/cs/0408031)|null|
+|**2025-04-20**|**Hierarchical Robust PCA for Scalable Data Quality Monitoring in Multi-level Aggregation Pipelines**|Preetam Kumar Ojha et.al.|[2504.14524](http://arxiv.org/abs/2504.14524)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
 |**2024-07-29**|**Urban Traffic Accident Risk Prediction Revisited: Regionality, Proximity, Similarity and Sparsity**|Minxiao Chen et.al.|[2407.19668](http://arxiv.org/abs/2407.19668)|**[link](https://github.com/faceless0124/mghstn)**|
@@ -148,7 +150,7 @@
 |**2012-03-27**|**MDCC: Multi-Data Center Consistency**|Tim Kraska et.al.|[1203.6049](http://arxiv.org/abs/1203.6049)|null|
 |**2011-06-15**|**Distributed Transactions for Google App Engine: Optimistic Distributed Transactions built upon Local Multi-Version Concurrency Control**|Daniel Shawcross Wilkerson et.al.|[1106.3325](http://arxiv.org/abs/1106.3325)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

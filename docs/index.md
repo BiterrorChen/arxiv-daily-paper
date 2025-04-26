@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi Cloud
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[2504.16397](http://arxiv.org/abs/2504.16397)|null|
 |**2025-04-16**|**Efficient Distributed Retrieval-Augmented Generation for Enhancing Language Model Performance**|Shangyu Liu et.al.|[2504.11197](http://arxiv.org/abs/2504.11197)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
@@ -113,6 +114,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2004-08-14**|**There Goes the Neighborhood: Relational Algebra for Spatial Data Search**|Jim Gray et.al.|[cs/0408031](http://arxiv.org/abs/cs/0408031)|null|
+|**2025-04-20**|**Hierarchical Robust PCA for Scalable Data Quality Monitoring in Multi-level Aggregation Pipelines**|Preetam Kumar Ojha et.al.|[2504.14524](http://arxiv.org/abs/2504.14524)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
 |**2024-07-29**|**Urban Traffic Accident Risk Prediction Revisited: Regionality, Proximity, Similarity and Sparsity**|Minxiao Chen et.al.|[2407.19668](http://arxiv.org/abs/2407.19668)|**[link](https://github.com/faceless0124/mghstn)**|
