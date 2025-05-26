@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi Cloud
@@ -70,6 +70,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2002-08-07**|**TerraService.NET: An Introduction to Web Services**|Tom Barclay et.al.|[cs/0208010](http://arxiv.org/abs/cs/0208010)|null|
+|**2025-05-20**|**Implementing Decentralized Per-Partition Automatic Failover in Azure Cosmos DB**|Josh Rowe et.al.|[2505.14900](http://arxiv.org/abs/2505.14900)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-01-02**|**Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**|Shaokang Xie et.al.|[2501.01062](http://arxiv.org/abs/2501.01062)|null|
 |**2025-03-16**|**AVA: Fault-tolerant Reconfigurable Geo-Replication on Heterogeneous Clusters**|Tejas Mane et.al.|[2412.01999](http://arxiv.org/abs/2412.01999)|null|
