@@ -2,14 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi Cloud
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-27**|**Multi-Event Triggers for Serverless Computing**|Valentin Carl et.al.|[2505.21199](http://arxiv.org/abs/2505.21199)|null|
+|**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|null|
+|**2025-06-05**|**Multi-Event Triggers for Serverless Computing**|Valentin Carl et.al.|[2505.21199](http://arxiv.org/abs/2505.21199)|null|
 |**2025-05-12**|**ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments**|Rong Kang et.al.|[2505.07692](http://arxiv.org/abs/2505.07692)|null|
 |**2025-04-29**|**LakeVilla: Multi-Table Transactions for Lakehouses**|Tobias Götz et.al.|[2504.20768](http://arxiv.org/abs/2504.20768)|null|
 |**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[2504.16397](http://arxiv.org/abs/2504.16397)|null|
