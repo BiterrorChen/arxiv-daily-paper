@@ -1,4 +1,4 @@
-## Updated on 2025.06.06
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|null|
+|**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|**[link](https://github.com/hpdic/hermes)**|
 |**2025-06-05**|**Multi-Event Triggers for Serverless Computing**|Valentin Carl et.al.|[2505.21199](http://arxiv.org/abs/2505.21199)|null|
 |**2025-05-12**|**ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments**|Rong Kang et.al.|[2505.07692](http://arxiv.org/abs/2505.07692)|null|
 |**2025-04-29**|**LakeVilla: Multi-Table Transactions for Lakehouses**|Tobias Götz et.al.|[2504.20768](http://arxiv.org/abs/2504.20768)|null|
@@ -72,7 +72,7 @@
 |**2018-08-25**|**Database-Agnostic Workload Management**|Shrainik Jain et.al.|[1808.08355](http://arxiv.org/abs/1808.08355)|null|
 |**2019-03-05**|**Decentralized Dictionary Learning Over Time-Varying Digraphs**|Amir Daneshmand et.al.|[1808.05933](http://arxiv.org/abs/1808.05933)|null|
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Geo-distributed
 
@@ -82,7 +82,7 @@
 |**2025-05-20**|**Implementing Decentralized Per-Partition Automatic Failover in Azure Cosmos DB**|Josh Rowe et.al.|[2505.14900](http://arxiv.org/abs/2505.14900)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-01-02**|**Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**|Shaokang Xie et.al.|[2501.01062](http://arxiv.org/abs/2501.01062)|null|
-|**2025-03-16**|**AVA: Fault-tolerant Reconfigurable Geo-Replication on Heterogeneous Clusters**|Tejas Mane et.al.|[2412.01999](http://arxiv.org/abs/2412.01999)|null|
+|**2025-06-10**|**Hamava: Fault-tolerant Reconfigurable Geo-Replication on Heterogeneous Clusters**|Tejas Mane et.al.|[2412.01999](http://arxiv.org/abs/2412.01999)|null|
 |**2024-12-05**|**GeoTP: Latency-aware Geo-Distributed Transaction Processing in Database Middlewares (Extended Version)**|Qiyu Zhuang et.al.|[2412.01213](http://arxiv.org/abs/2412.01213)|null|
 |**2023-12-02**|**Fast Commitment for Geo-Distributed Transactions via Decentralized Co-coordinators**|Zihao Zhang et.al.|[2312.01229](http://arxiv.org/abs/2312.01229)|null|
 |**2023-08-05**|**FLight: A Lightweight Federated Learning Framework in Edge and Fog Computing**|Wuji Zhu et.al.|[2308.02834](http://arxiv.org/abs/2308.02834)|null|
@@ -121,7 +121,7 @@
 |**2016-11-19**|**OpenGeoBase: Information Centric Networking meets Spatial Database applications - Extended Version**|Andrea Detti et.al.|[1607.00771](http://arxiv.org/abs/1607.00771)|null|
 |**2016-01-23**|**Characterizing and Adapting the Consistency-Latency Tradeoff in Distributed Key-value Stores**|Muntasir Raihan Rahman et.al.|[1509.02464](http://arxiv.org/abs/1509.02464)|null|
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Multi Region
 
@@ -155,7 +155,7 @@
 |**2012-03-27**|**MDCC: Multi-Data Center Consistency**|Tim Kraska et.al.|[1203.6049](http://arxiv.org/abs/1203.6049)|null|
 |**2011-06-15**|**Distributed Transactions for Google App Engine: Optimistic Distributed Transactions built upon Local Multi-Version Concurrency Control**|Daniel Shawcross Wilkerson et.al.|[1106.3325](http://arxiv.org/abs/1106.3325)|null|
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
