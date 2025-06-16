@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi Cloud
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Automating Multi-Tenancy Performance Evaluation on Edge Compute Nodes**|Joanna Georgiou et.al.|[2506.10461](http://arxiv.org/abs/2506.10461)|null|
+|**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
 |**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|**[link](https://github.com/hpdic/hermes)**|
 |**2025-06-05**|**Multi-Event Triggers for Serverless Computing**|Valentin Carl et.al.|[2505.21199](http://arxiv.org/abs/2505.21199)|null|
 |**2025-05-12**|**ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments**|Rong Kang et.al.|[2505.07692](http://arxiv.org/abs/2505.07692)|null|
