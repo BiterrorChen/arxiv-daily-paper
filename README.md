@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,8 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Zarr-Based Chunk-Level Cumulative Sums in Reduced Dimensions**|Hailiang Zhang et.al.|[2506.14981](http://arxiv.org/abs/2506.14981)|null|
 |**2025-06-12**|**Automating Multi-Tenancy Performance Evaluation on Edge Compute Nodes**|Joanna Georgiou et.al.|[2506.10461](http://arxiv.org/abs/2506.10461)|null|
-|**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
+|**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|**[link](https://github.com/davidlamprecht/rdf-gnn-recommendation)**|
 |**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|**[link](https://github.com/hpdic/hermes)**|
 |**2025-06-05**|**Multi-Event Triggers for Serverless Computing**|Valentin Carl et.al.|[2505.21199](http://arxiv.org/abs/2505.21199)|null|
 |**2025-05-12**|**ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments**|Rong Kang et.al.|[2505.07692](http://arxiv.org/abs/2505.07692)|null|
@@ -74,7 +75,7 @@
 |**2018-08-25**|**Database-Agnostic Workload Management**|Shrainik Jain et.al.|[1808.08355](http://arxiv.org/abs/1808.08355)|null|
 |**2019-03-05**|**Decentralized Dictionary Learning Over Time-Varying Digraphs**|Amir Daneshmand et.al.|[1808.05933](http://arxiv.org/abs/1808.05933)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Geo-distributed
 
@@ -123,13 +124,14 @@
 |**2016-11-19**|**OpenGeoBase: Information Centric Networking meets Spatial Database applications - Extended Version**|Andrea Detti et.al.|[1607.00771](http://arxiv.org/abs/1607.00771)|null|
 |**2016-01-23**|**Characterizing and Adapting the Consistency-Latency Tradeoff in Distributed Key-value Stores**|Muntasir Raihan Rahman et.al.|[1509.02464](http://arxiv.org/abs/1509.02464)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Multi Region
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2004-08-14**|**There Goes the Neighborhood: Relational Algebra for Spatial Data Search**|Jim Gray et.al.|[cs/0408031](http://arxiv.org/abs/cs/0408031)|null|
+|**2025-06-17**|**Zarr-Based Chunk-Level Cumulative Sums in Reduced Dimensions**|Hailiang Zhang et.al.|[2506.14981](http://arxiv.org/abs/2506.14981)|null|
 |**2025-04-20**|**Hierarchical Robust PCA for Scalable Data Quality Monitoring in Multi-level Aggregation Pipelines**|Preetam Kumar Ojha et.al.|[2504.14524](http://arxiv.org/abs/2504.14524)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
@@ -157,7 +159,7 @@
 |**2012-03-27**|**MDCC: Multi-Data Center Consistency**|Tim Kraska et.al.|[1203.6049](http://arxiv.org/abs/1203.6049)|null|
 |**2011-06-15**|**Distributed Transactions for Google App Engine: Optimistic Distributed Transactions built upon Local Multi-Version Concurrency Control**|Daniel Shawcross Wilkerson et.al.|[1106.3325](http://arxiv.org/abs/1106.3325)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
