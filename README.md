@@ -1,4 +1,4 @@
-## Updated on 2025.06.21
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-17**|**Zarr-Based Chunk-Level Cumulative Sums in Reduced Dimensions**|Hailiang Zhang et.al.|[2506.14981](http://arxiv.org/abs/2506.14981)|null|
+|**2025-06-19**|**PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking**|Yan Zhou et.al.|[2506.16379](http://arxiv.org/abs/2506.16379)|null|
+|**2025-06-17**|**Zarr-Based Chunk-Level Cumulative Sums in Reduced Dimensions**|Hailiang Zhang et.al.|[2506.14981](http://arxiv.org/abs/2506.14981)|**[link](https://github.com/nasa/zarr-accumulation-generation)**|
 |**2025-06-12**|**Automating Multi-Tenancy Performance Evaluation on Edge Compute Nodes**|Joanna Georgiou et.al.|[2506.10461](http://arxiv.org/abs/2506.10461)|null|
 |**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|**[link](https://github.com/davidlamprecht/rdf-gnn-recommendation)**|
 |**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|**[link](https://github.com/hpdic/hermes)**|
@@ -30,7 +31,7 @@
 |**2025-01-09**|**Optimal Oblivious Algorithms for Multi-way Joins**|Xiao Hu et.al.|[2501.04216](http://arxiv.org/abs/2501.04216)|null|
 |**2024-12-03**|**Taurus Database: How to be Fast, Available, and Frugal in the Cloud**|Alex Depoutovitch et.al.|[2412.02792](http://arxiv.org/abs/2412.02792)|null|
 |**2024-11-15**|**A Multi-Server Information-Sharing Environment for Cross-Party Collaboration on A Private Cloud**|Jianping Zhang et.al.|[2411.13580](http://arxiv.org/abs/2411.13580)|null|
-|**2024-11-09**|**SiriusBI: Building End-to-End Business Intelligence Enhanced by Large Language Models**|Jie Jiang et.al.|[2411.06102](http://arxiv.org/abs/2411.06102)|null|
+|**2025-06-24**|**SiriusBI: A Comprehensive LLM-Powered Solution for Data Analytics in Business Intelligence**|Jie Jiang et.al.|[2411.06102](http://arxiv.org/abs/2411.06102)|null|
 |**2024-10-24**|**MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases**|Zhisheng Lin et.al.|[2410.18406](http://arxiv.org/abs/2410.18406)|null|
 |**2024-08-01**|**Saving Money for Analytical Workloads in the Cloud**|Tapan Srivastava et.al.|[2408.00253](http://arxiv.org/abs/2408.00253)|null|
 |**2024-07-17**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|**[link](https://zenodo.org/record/12611978)**|
@@ -75,7 +76,7 @@
 |**2018-08-25**|**Database-Agnostic Workload Management**|Shrainik Jain et.al.|[1808.08355](http://arxiv.org/abs/1808.08355)|null|
 |**2019-03-05**|**Decentralized Dictionary Learning Over Time-Varying Digraphs**|Amir Daneshmand et.al.|[1808.05933](http://arxiv.org/abs/1808.05933)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Geo-distributed
 
@@ -124,14 +125,14 @@
 |**2016-11-19**|**OpenGeoBase: Information Centric Networking meets Spatial Database applications - Extended Version**|Andrea Detti et.al.|[1607.00771](http://arxiv.org/abs/1607.00771)|null|
 |**2016-01-23**|**Characterizing and Adapting the Consistency-Latency Tradeoff in Distributed Key-value Stores**|Muntasir Raihan Rahman et.al.|[1509.02464](http://arxiv.org/abs/1509.02464)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Multi Region
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2004-08-14**|**There Goes the Neighborhood: Relational Algebra for Spatial Data Search**|Jim Gray et.al.|[cs/0408031](http://arxiv.org/abs/cs/0408031)|null|
-|**2025-06-17**|**Zarr-Based Chunk-Level Cumulative Sums in Reduced Dimensions**|Hailiang Zhang et.al.|[2506.14981](http://arxiv.org/abs/2506.14981)|null|
+|**2025-06-17**|**Zarr-Based Chunk-Level Cumulative Sums in Reduced Dimensions**|Hailiang Zhang et.al.|[2506.14981](http://arxiv.org/abs/2506.14981)|**[link](https://github.com/nasa/zarr-accumulation-generation)**|
 |**2025-04-20**|**Hierarchical Robust PCA for Scalable Data Quality Monitoring in Multi-level Aggregation Pipelines**|Preetam Kumar Ojha et.al.|[2504.14524](http://arxiv.org/abs/2504.14524)|null|
 |**2025-04-02**|**K2: On Optimizing Distributed Transactions in a Multi-region Data Store with TrueTime Clocks (Extended Version)**|Haoze Song et.al.|[2504.01460](http://arxiv.org/abs/2504.01460)|null|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
@@ -159,7 +160,7 @@
 |**2012-03-27**|**MDCC: Multi-Data Center Consistency**|Tim Kraska et.al.|[1203.6049](http://arxiv.org/abs/1203.6049)|null|
 |**2011-06-15**|**Distributed Transactions for Google App Engine: Optimistic Distributed Transactions built upon Local Multi-Version Concurrency Control**|Daniel Shawcross Wilkerson et.al.|[1106.3325](http://arxiv.org/abs/1106.3325)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
