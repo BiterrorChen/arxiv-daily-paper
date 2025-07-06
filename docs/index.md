@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi Cloud
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Handling out-of-order input arrival in CEP engines on the edge combining optimistic, pessimistic and lazy evaluation**|Styliani Kyrama et.al.|[2507.01461](http://arxiv.org/abs/2507.01461)|null|
 |**2025-06-19**|**PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking**|Yan Zhou et.al.|[2506.16379](http://arxiv.org/abs/2506.16379)|null|
 |**2025-06-17**|**Zarr-Based Chunk-Level Cumulative Sums in Reduced Dimensions**|Hailiang Zhang et.al.|[2506.14981](http://arxiv.org/abs/2506.14981)|**[link](https://github.com/nasa/zarr-accumulation-generation)**|
 |**2025-06-12**|**Automating Multi-Tenancy Performance Evaluation on Edge Compute Nodes**|Joanna Georgiou et.al.|[2506.10461](http://arxiv.org/abs/2506.10461)|null|
